@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53b5e02575d3a5d90b0d4c5f6d6a9f60",
+    "revision": "32ed187359b67d0c6f9d8e72885470ff",
     "url": "/the-logos-eaters/index.html"
   },
   {
-    "revision": "6d3fda342661411e0ea8",
+    "revision": "ca66399841016fce4174",
     "url": "/the-logos-eaters/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "d213df5fb3ab362ec726",
+    "revision": "52ce5c3d1715afa323d4",
     "url": "/the-logos-eaters/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "6d3fda342661411e0ea8",
-    "url": "/the-logos-eaters/static/js/2.6c5d12bd.chunk.js"
+    "revision": "ca66399841016fce4174",
+    "url": "/the-logos-eaters/static/js/2.eaecaabc.chunk.js"
   },
   {
-    "revision": "d213df5fb3ab362ec726",
-    "url": "/the-logos-eaters/static/js/main.9dc86ea2.chunk.js"
+    "revision": "52ce5c3d1715afa323d4",
+    "url": "/the-logos-eaters/static/js/main.cd39beca.chunk.js"
   },
   {
     "revision": "c6797e8962d39f754778",
