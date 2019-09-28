@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-logos-eaters/precache-manifest.946d24f35266da13cb4667d3396e0a02.js"
+  "/the-logos-eaters/precache-manifest.57f5c7f9f3359bf48fc81973485b567b.js"
 );
 
 self.addEventListener('message', (event) => {
