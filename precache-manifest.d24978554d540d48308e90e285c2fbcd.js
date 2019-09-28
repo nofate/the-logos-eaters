@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9083a4fc3211b0af5941eb4e6edb296b",
+    "revision": "b65164c9460156a8eea1c809708b81e5",
     "url": "/the-logos-eaters/index.html"
   },
   {
-    "revision": "4c43337b07a1c6b9b352",
+    "revision": "c388378a4cb519480cf7",
     "url": "/the-logos-eaters/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "025051bf915af6abe317",
-    "url": "/the-logos-eaters/static/css/main.ee3bdd2d.chunk.css"
+    "revision": "5775c396bf0415a703dd",
+    "url": "/the-logos-eaters/static/css/main.a2693141.chunk.css"
   },
   {
-    "revision": "4c43337b07a1c6b9b352",
-    "url": "/the-logos-eaters/static/js/2.6a4bde76.chunk.js"
+    "revision": "c388378a4cb519480cf7",
+    "url": "/the-logos-eaters/static/js/2.edf8beee.chunk.js"
   },
   {
-    "revision": "025051bf915af6abe317",
-    "url": "/the-logos-eaters/static/js/main.8e9ca6e3.chunk.js"
+    "revision": "5775c396bf0415a703dd",
+    "url": "/the-logos-eaters/static/js/main.be3ecc47.chunk.js"
   },
   {
     "revision": "c6797e8962d39f754778",
